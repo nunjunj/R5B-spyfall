@@ -61,8 +61,8 @@ const Page = ({ children, onThemeToggle, darkModeActive }) => {
 					>
 						Switch to {darkModeActive ? "Light" : "Dark"} Mode
 					</button>
-					<LanguageSelector />
-					<Footer />
+					{/* <LanguageSelector /> */}
+					{/* <Footer /> */}
 				</div>
 			</div>
 		</>
