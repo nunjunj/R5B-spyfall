@@ -1,9 +1,11 @@
 import React from "react";
 import Link from "next/link";
+import Layout from "../components/TypeWriter";
 
 const HowToPlay = () => {
 	return (
 		<>
+			{/* <Layout>  */}
 			<div className="main-menu">
 				<h3>How to Play Spyfall</h3>
 				<hr />
@@ -62,6 +64,7 @@ const HowToPlay = () => {
 					`}</style>
 				</div>
 			</div>
+			{/* </Layout> */}
 			<Link href="/">
 				<button>Back to Spyfall</button>
 			</Link>
