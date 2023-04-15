@@ -76,9 +76,9 @@ const Home = ({ t, i18n, loading }) => {
 					</div>
 					<div className="button-container-vertical">
 						{/* <AddAppButton /> */}
-						<Link href="/how-to-play">
+						{/* <Link href="/how-to-play">
 							<button className="btn-small btn-vertical">How to Play</button>
-						</Link>
+						</Link> */}
 						{/* <Link href="/more-games">
 							<button className="btn-small btn-vertical">
 								Games Like Spyfall
