@@ -53,7 +53,7 @@ const Home = ({ t, i18n, loading }) => {
 					width: "fit-content",
 				}}
 			>
-				<h3>{t("ui.welcome to spyfall")}</h3>
+				<h3>Welcome to Mafia Report</h3>
 				<div className="subtitle formerly">(R5B Creative Project 🎉 )</div>
 			</div>
 			<hr />

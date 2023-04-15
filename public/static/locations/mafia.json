@@ -1,0 +1,42 @@
+{
+	"id": "mafia",
+	"name": "Mafia 1",
+	"locations": [
+		{
+			"name": "Decameron",
+			"roles": ["locations.roles.airplane.first class passenger"]
+		},
+		{
+			"name": "The Princess of Cleves",
+			"roles": ["locations.roles.airplane.first class passenger"]
+		},
+		{
+			"name": "Alice’s Adventures in Wonderland",
+			"roles": ["locations.roles.airplane.first class passenger"]
+		},
+		{
+			"name": "Castle of Crossed Destinies",
+			"roles": ["locations.roles.airplane.first class passenger"]
+		},
+		{
+			"name": "The Queen of Spades",
+			"roles": ["locations.roles.airplane.first class passenger"]
+		},
+		{
+			"name": "Aesthetics of Play",
+			"roles": ["locations.roles.airplane.first class passenger"]
+		},
+		{
+			"name": "Paper World",
+			"roles": ["locations.roles.airplane.first class passenger"]
+		},
+		{
+			"name": "The Surprises of Science",
+			"roles": ["locations.roles.airplane.first class passenger"]
+		},
+		{
+			"name": "The Old Man’s Slumber",
+			"roles": ["locations.roles.airplane.first class passenger"]
+		}
+	]
+}

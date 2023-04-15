@@ -18,7 +18,7 @@ class Game {
 		this.timePaused = false;
 		this.currentRoundNum = 0;
 		this.settings = {
-			locationPack: "spyfall1",
+			locationPack: "mafia",
 			timeLimit: 8, // 8 minutes
 			includeAllSpy: false,
 		};
